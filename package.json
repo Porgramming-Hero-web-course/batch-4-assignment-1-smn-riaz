@@ -1,0 +1,12 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "main": "problem1.js",
+  "scripts": {
+    "start": "tsnd --respawn"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
